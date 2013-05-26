@@ -1,0 +1,59 @@
+url	imgUrl	order	shortHed
+http://www.nytimes.com/interactive/2013/05/13/sports/baseball/money-on-the-bench.html?smid=tw-nytimes	money-bench	1	Money on the Bench
+http://www.nytimes.com/interactive/2013/05/08/sports/soccer/alex-ferguson-scatterplot.html?_r=0	ferguson	1	Alex Ferguson Compared
+http://www.nytimes.com/interactive/2013/04/25/sports/football/picking-the-best-in-the-nfl-draft.html?ref=sports&_r=0	nfl-draft	1	Chance and the Draft
+http://www.nytimes.com/interactive/2013/03/29/sports/baseball/Strikeouts-Are-Still-Soaring.html?ref=baseball	strikeouts	2	Strikeouts on the Rise
+http://www.nytimes.com/interactive/2013/02/21/movies/awardsseason/oscar-favorites-readers-vs-intrade.html?_r=0	oscars-intrade	3	Oscars and Intrade
+http://www.nytimes.com/interactive/2012/08/05/sports/olympics/the-100-meter-dash-one-race-every-medalist-ever.html	mens-100m-dash	4	Men’s 100-Meter Sprint
+http://www.nytimes.com/interactive/2012/12/24/sports/basketball/pick-your-all-time-new-york-city-nba-team.html	all-nyc-nba	5	All-Time NYC NBA
+http://www.nytimes.com/interactive/2013/01/29/us/where-50000-guns-in-chicago-came-from.html	chicago-guns	6	50,000 Chicago Guns
+http://www.nytimes.com/interactive/2013/02/20/us/hispanics-californias-next-majority.html	calif-hispanics	7	California’s Next Majority
+http://www.nytimes.com/interactive/2013/03/01/world/americas/border-graphic.html	border-map	8	Border Enforcement
+http://www.nytimes.com/interactive/2012/10/05/business/economy/one-report-diverging-perspectives.html	diverging-report	9	Diverging Perspectives
+http://www.nytimes.com/interactive/2013/02/03/sports/football/in-this-years-nfl-a-new-breed-of-quarterback.html	running-qbs	10	Running QBs
+http://www.nytimes.com/interactive/2013/01/15/us/a-migration-of-unmarried-men.html	nd-men	50	A Migration of Unmarried Men
+http://www.nytimes.com/interactive/2013/02/13/education/State-Financed-Preschool-Access-In-the-US.html	pre-k	12	Preschool Access in the U.S.
+http://www.nytimes.com/interactive/2012/11/27/us/recovering-but-at-different-paces.html?ref=us	unemp-rates-calif	13	California Recovering
+http://www.nytimes.com/interactive/2013/02/09/us/Wawa-or-Sheetz-A-Matter-of-Convenience.html	wawa-sheetz	14	Wawa or Sheetz?
+http://www.nytimes.com/interactive/2012/08/01/sports/olympics/racing-against-history.html	swim-history	15	Men's 100m freestyle
+http://www.nytimes.com/interactive/2012/08/04/sports/olympics/bob-beamons-long-olympic-shadow.html	long-jump	16	Men's  Long Jump
+http://www.nytimes.com/interactive/2012/09/14/us/how-the-chicago-public-school-district-compares.html	chicago-teachers	17	How Chicago Compares
+http://www.nytimes.com/2012/09/19/us/historian-says-piece-of-papyrus-refers-to-jesus-wife.html?_r=0	papyrus	18	Jesus' Wife
+http://www.nytimes.com/interactive/2012/03/07/us/politics/how-candidates-fared-with-different-demographic-groups.html	ternary-plot	19	Santorum and Romney
+http://www.nytimes.com/interactive/2012/07/20/us/drought-footprint.html	droughts	20	Drought’s Footprint
+http://www.nytimes.com/interactive/2012/02/04/sports/football/most-mentioned-players-on-espn.html	sportsCenter	21	SportsCenter
+http://www.nytimes.com/interactive/2012/02/04/sports/football/a-compilation-of-sportscenter-cliches.html	cliches	22	SC Cliches
+http://www.nytimes.com/interactive/2012/08/10/sports/olympics/passing-patterns-of-the-uss-top-playmakers.html	womens-soccer	23	Passing Patterns
+http://www.nytimes.com/interactive/2012/03/24/us/for-horse-and-jockey-risks-vary.html	horses	24	Risks for Jockeys
+http://www.nytimes.com/interactive/2012/04/29/us/one-horse-one-week-of-injections.html	horse-injections	25	Horse Injections
+http://www.nytimes.com/interactive/2012/04/22/style/people-invited-to-state-dinners.html	wh-guests	26	White House Dinners
+http://www.nytimes.com/2012/04/15/us/politics/white-house-doors-open-for-big-donors.html	wh-donations	27	White House Donors
+http://www.nytimes.com/interactive/2012/05/05/sports/baseball/mariano-rivera-and-his-peers.html	rivera-1	28	How Rivera Compares
+http://elections.nytimes.com/2012/campaign-finance/independent-expenditures/	ind-spend	29	Tracking Super PAC Money
+http://elections.nytimes.com/2012/campaign-finance	money-race	30	The 2012 Money Race
+http://elections.nytimes.com/2012/ratings/senate	race-ratings	31	Senate Race Ratings
+http://elections.nytimes.com/2012/primaries/issues#issue/abortion	issues	32	Candidates on the Issues
+http://www.nytimes.com/interactive/2012/01/02/us/you-cut-the-defense-budget.html	defense-1	33	Defense Puzzle
+http://www.nytimes.com/interactive/2011/03/13/world/asia/satellite-photos-japan-before-and-after-tsunami.html	japan-before-after	34	Japan: Before and After
+http://www.nytimes.com/interactive/2011/10/17/us/politics/a-guide-to-political-donations.html	donations-guide-1	35	A Guide to Political Donations
+http://www.nytimes.com/interactive/business/buy-rent-calculator.html	buy-rent	36	Is It Better to Buy Or Rent?
+http://farm7.staticflickr.com/6093/6350931997_9b4513db5c_b.jpg	guide-donations-print	37	Connecting Campaign Cash
+http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html	different-groups	38	How We Spend Our Days
+http://www.nytimes.com/interactive/2010/01/10/nyregion/20100110-netflix-map.html	netflix	39	A Peek Into Nexflix Queues
+http://www.nytimes.com/interactive/2010/07/02/sports/soccer/facebook-worldcup.html	world-cup	40	World Cup on Facebook
+http://www.nytimes.com/interactive/2010/11/03/us/politics/election-results-house-shift.html?ref=politics	historic-shift	41	A Historic Shift
+http://www.nytimes.com/interactive/2010/11/13/weekinreview/deficits-graphic.html	budget-puzzle	42	You Fix the Budget
+http://www.nytimes.com/interactive/2011/05/31/business/economy/case-shiller-index.html	housing	43	Housing in 20 Cities
+http://www.nytimes.com/interactive/2011/06/15/sports/baseball/jeter-3000-hits.html	jeter-2	44	Derek Jeter: 3,000 hits
+http://oscars.nytimes.com/favorites	facebook-oscars-3	45	2011 Oscar Favorites
+http://www.nytimes.com/interactive/2011/12/13/us/politics/a-survey-of-democratic-presidential-campaign-strategies.html	carto	46	The Path to 270
+http://www.nytimes.com/interactive/2011/03/29/us/liberty-graphic.html	indonesian-paper	47	Indonesian Paper's Connections
+http://www.nytimes.com/interactive/2010/07/25/us/scotus-quiz.html	how-your-views-compare	48	Your Views and the Court
+http://www.nytimes.com/interactive/2009/11/06/business/economy/unemployment-lines.html	unemployment-like-you	49	Jobless Rates for Americans
+http://www.nytimes.com/interactive/2009/09/29/world/middleeast/iran-nuclear-facility.html	iran	50	Iran's Hidden Nuclear Facility
+http://www.nytimes.com/interactive/2010/02/15/sports/olympics/mens-downhill-result.html	winning-line	51	Cutting the Winning Line
+http://www.nytimes.com/interactive/2011/02/05/sports/football/madden-superbowl-graphic.html	madden	52	Madden and the Real NFL
+http://www.nytimes.com/interactive/2011/01/15/sports/football/jets-special-teams.html	jets-2	53	Jets' Special Teams
+http://www.nytimes.com/interactive/2009/12/05/world/climate-graphic-background.html	copenhagen	54	Understanding Copenhagen
+http://www.nytimes.com/interactive/2008/05/26/sports/playmagazine/200805227_IVANOVIC_GRAPHIC.html	power-in-motion	55	Power in Motion
+http://www.nytimes.com/interactive/2013/01/02/us/chicago-killings.html	chicago-homicides	10	Chicago Homicides
