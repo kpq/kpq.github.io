@@ -225,6 +225,8 @@ a:hover {
 <script type="text/javascript">
 d3.tsv("_assets/projects.tsv",function(projects) {
 
+  window.projects = projects;
+
   // projects.sort(function(proj) {return proj.a > proj.b })
 
   var container = d3.select(".work-list");
