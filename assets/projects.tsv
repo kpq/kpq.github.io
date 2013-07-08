@@ -1,5 +1,6 @@
 url	imgUrl	order	shortHed
 http://www.nytimes.com/interactive/2011/05/31/business/economy/case-shiller-index.html shiller2 1 Case-Shiller Update	shiller2	0	Case Shiller Update
+http://www.nytimes.com/newsgraphics/2013/06/07/bicycle-routes/index.html?smid=tw-nytimes	ny-biking	1	Bike Wisdom Map
 http://www.nytimes.com/interactive/2013/05/13/sports/baseball/money-on-the-bench.html?smid=tw-nytimes	money-bench	1	Money on the Bench
 http://www.nytimes.com/interactive/2013/05/08/sports/soccer/alex-ferguson-scatterplot.html?_r=0	ferguson	1	Alex Ferguson Compared
 http://www.nytimes.com/interactive/2013/04/25/sports/football/picking-the-best-in-the-nfl-draft.html?ref=sports&_r=0	nfl-draft	1	Chance and the Draft
