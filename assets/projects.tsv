@@ -1,4 +1,7 @@
 url	imgUrl	order	shortHed
+http://www.nytimes.com/newsgraphics/2013/09/28/eli-manning-milestone/	eli	1	QB streaks since 1970
+http://www.nytimes.com/2013/08/26/sports/at-louisville-an-athletic-boom-made-for-and-by-tv.html?pagewanted=all	louisville	1	Weekday football
+http://www.nytimes.com/2013/09/08/education/harvard-case-study-gender-equity.html?ref=education	hbs	1	Gender and Tenure at HBS
 http://www.nytimes.com/interactive/2013/07/16/sports/cycling/the-double-ascent-of-alpe-dhuez.html?ref=cycling	huez	1	Double Ascent
 http://www.nytimes.com/interactive/2011/05/31/business/economy/case-shiller-index.html	shiller2	1	Case-Shiller Update
 http://www.nytimes.com/newsgraphics/2013/06/07/bicycle-routes/index.html?smid=tw-nytimes	ny-biking	1	Bike Wisdom Map
@@ -60,3 +63,10 @@ http://www.nytimes.com/interactive/2011/01/15/sports/football/jets-special-teams
 http://www.nytimes.com/interactive/2009/12/05/world/climate-graphic-background.html	copenhagen	54	Understanding Copenhagen
 http://www.nytimes.com/interactive/2008/05/26/sports/playmagazine/200805227_IVANOVIC_GRAPHIC.html	power-in-motion	55	Power in Motion
 http://www.nytimes.com/interactive/2013/01/02/us/chicago-killings.html	chicago-homicides	10	Chicago Homicides
+http://www.nytimes.com/interactive/2009/09/29/world/middleeast/iran-nuclear-facility.html	iran	50	Iran's
+http://www.nytimes.com/interactive/2010/02/15/sports/olympics/mens-downhill-result.html	winning-line	51	Cutting
+http://www.nytimes.com/interactive/2011/02/05/sports/football/madden-superbowl-graphic.html	madden	52	Madden
+http://www.nytimes.com/interactive/2011/01/15/sports/football/jets-special-teams.html	jets-2	53	Jets'
+http://www.nytimes.com/interactive/2009/12/05/world/climate-graphic-background.html	copenhagen	54	Understanding
+http://www.nytimes.com/interactive/2008/05/26/sports/playmagazine/200805227_IVANOVIC_GRAPHIC.html	power-in-motion	55	Power
+http://www.nytimes.com/interactive/2013/01/02/us/chicago-killings.html	chicago-homicides	10	Chicago
