@@ -1,4 +1,6 @@
 url	imgUrl	order	shortHed
+http://www.nytimes.com/4thdowns	fourth	1	4th Down Bot
+http://www.nytimes.com/newsgraphics/2013/11/30/football-conferences/	sankey	1	History of NCAA Conferences
 http://www.nytimes.com/newsgraphics/2013/09/28/eli-manning-milestone/	eli	1	QB streaks since 1970
 http://www.nytimes.com/2013/08/26/sports/at-louisville-an-athletic-boom-made-for-and-by-tv.html?pagewanted=all	louisville	1	Weekday football
 http://www.nytimes.com/2013/09/08/education/harvard-case-study-gender-equity.html?ref=education	hbs	1	Gender and Tenure at HBS
