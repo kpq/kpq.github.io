@@ -1,19 +1,35 @@
 url	imgUrl	order	shortHed
+http://www.nytimes.com/interactive/2014/upshot/mapping-the-spread-of-drought-across-the-us.html?abt=0002&abg=0	drought	1	Drought in the U.S.
+http://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-were-born.html?abt=0002&abg=0	migration	1	Where We Came From
+http://www.nytimes.com/interactive/2014/07/12/upshot/how-fan-loyalty-changed-during-the-world-cup.html?abt=0002&abg=0	fan-loyalty		World Cup Fans
+http://www.nytimes.com/interactive/2014/06/25/upshot/984-ways-the-united-states-can-advance-to-the-next-round-of-the-world-cup.html?abt=0002&abg=0	wc-matrix		986 Ways to Advance
+http://www.nytimes.com/2014/06/11/upshot/world-cup-opinions-in-19-countries-likes-dislikes-predictions.html?abt=0002&abg=0	wc-poll		World Cup Opinions
+http://www.nytimes.com/2014/04/27/upshot/there-is-one-more-baseball-map-we-love-showing-the-second-favorite-teams.html?abt=0002&abg=0	second-place		Second place baseball
+http://www.nytimes.com/2014/04/26/upshot/the-upshot-and-45-that-didnt-make-the-cut.html?abt=0002&abg=0	names-post		Upshot names
+http://www.nytimes.com/interactive/2014/07/07/upshot/how-england-italy-and-germany-are-dominating-the-world-cup.html?abt=0002&abg=0	euro-league		How Europe Dominates
+http://www.nytimes.com/2014/04/23/upshot/the-american-middle-class-is-no-longer-the-worlds-richest.html?abt=0002&abg=0	middle-class		Middle Class
+http://www.nytimes.com/2014/04/23/upshot/this-simple-table-summarizes-our-story-on-american-living-standards.html?abt=0002&abg=0	middle-class-table		Middle class table
+http://www.nytimes.com/interactive/2014/06/19/upshot/world-cup-2014-how-teams-can-advance-to-the-next-round.html?abt=0002&abg=0	wc-advance		How teams can advance
+http://www.nytimes.com/interactive/2014/06/03/upshot/world-cup-draw-simulation.html?action=click&contentCollection=The%20Upshot&module=RelatedCoverage&region=Marginalia&pgtype=article&abt=0002&abg=0	fair-draw		A Fair World Cup Draw
+http://www.nytimes.com/2014/05/02/upshot/how-not-to-be-misled-by-the-jobs-report.html?abt=0002&abg=0	jobs-report		Misleading Jobs Report
+http://www.nytimes.com/interactive/2014/05/12/upshot/12-upshot-nba-basketball.html	nba-map		N.B.A. fan map
+http://www.nytimes.com/interactive/2014/04/23/upshot/24-upshot-baseball.html?abt=0002&abg=0	baseball-map		Baseball fans
+http://www.nytimes.com/interactive/2014/05/11/upshot/up-soccer-table.html?abt=0002&abg=0	premier-league		Premier League with No English Players
 http://www.nytimes.com/4thdowns	fourth	1	4th Down Bot
-http://www.nytimes.com/newsgraphics/2013/11/30/football-conferences/	sankey	1	History of NCAA Conferences
-http://www.nytimes.com/newsgraphics/2013/09/28/eli-manning-milestone/	eli	1	QB streaks since 1970
-http://www.nytimes.com/2013/08/26/sports/at-louisville-an-athletic-boom-made-for-and-by-tv.html?pagewanted=all	louisville	1	Weekday football
-http://www.nytimes.com/2013/09/08/education/harvard-case-study-gender-equity.html?ref=education	hbs	1	Gender and Tenure at HBS
-http://www.nytimes.com/interactive/2013/07/16/sports/cycling/the-double-ascent-of-alpe-dhuez.html?ref=cycling	huez	1	Double Ascent
-http://www.nytimes.com/interactive/2011/05/31/business/economy/case-shiller-index.html	shiller2	1	Case-Shiller Update
-http://www.nytimes.com/newsgraphics/2013/06/07/bicycle-routes/index.html?smid=tw-nytimes	ny-biking	1	Bike Wisdom Map
-http://www.nytimes.com/interactive/2013/05/13/sports/baseball/money-on-the-bench.html?smid=tw-nytimes	money-bench	1	Money on the Bench
-http://www.nytimes.com/interactive/2013/05/08/sports/soccer/alex-ferguson-scatterplot.html?_r=0	ferguson	1	Alex Ferguson Compared
-http://www.nytimes.com/interactive/2013/04/25/sports/football/picking-the-best-in-the-nfl-draft.html?ref=sports&_r=0	nfl-draft	1	Chance and the Draft
+http://www.nytimes.com/newsgraphics/2013/11/30/football-conferences/	sankey	2	History of NCAA Conferences
+http://www.nytimes.com/newsgraphics/2013/09/28/eli-manning-milestone/	eli	2	QB streaks since 1970
+http://www.nytimes.com/2013/08/26/sports/at-louisville-an-athletic-boom-made-for-and-by-tv.html?pagewanted=all	louisville	2	Weekday football
+http://www.nytimes.com/2013/09/08/education/harvard-case-study-gender-equity.html?ref=education	hbs	2	Gender and Tenure at HBS
+http://www.nytimes.com/interactive/2013/07/16/sports/cycling/the-double-ascent-of-alpe-dhuez.html?ref=cycling	huez	2	Double Ascent
+http://www.nytimes.com/interactive/2011/05/31/business/economy/case-shiller-index.html	shiller2	2	Case-Shiller Update
+http://www.nytimes.com/newsgraphics/2013/06/07/bicycle-routes/index.html?smid=tw-nytimes	ny-biking	2	Bike Wisdom Map
+http://www.nytimes.com/interactive/2013/05/13/sports/baseball/money-on-the-bench.html?smid=tw-nytimes	money-bench	2	Money on the Bench
+http://www.nytimes.com/interactive/2013/05/08/sports/soccer/alex-ferguson-scatterplot.html?_r=0	ferguson	2	Alex Ferguson Compared
+http://www.nytimes.com/interactive/2013/04/25/sports/football/picking-the-best-in-the-nfl-draft.html?ref=sports&_r=0	nfl-draft	2	Chance and the Draft
 http://www.nytimes.com/interactive/2013/03/29/sports/baseball/Strikeouts-Are-Still-Soaring.html?ref=baseball	strikeouts	2	Strikeouts on the Rise
-http://www.nytimes.com/interactive/2013/02/21/movies/awardsseason/oscar-favorites-readers-vs-intrade.html?_r=0	oscars-intrade	3	Oscars and Intrade
-http://www.nytimes.com/interactive/2012/08/05/sports/olympics/the-100-meter-dash-one-race-every-medalist-ever.html	mens-100m-dash	4	Men’s 100-Meter Sprint
-http://www.nytimes.com/interactive/2012/12/24/sports/basketball/pick-your-all-time-new-york-city-nba-team.html	all-nyc-nba	5	All-Time NYC NBA
+http://www.nytimes.com/interactive/2013/02/21/movies/awardsseason/oscar-favorites-readers-vs-intrade.html?_r=0	oscars-intrade	2	Oscars and Intrade
+http://www.nytimes.com/interactive/2012/08/05/sports/olympics/the-100-meter-dash-one-race-every-medalist-ever.html	mens-100m-dash	2	Men’s 100-Meter Sprint
+http://www.nytimes.com/interactive/2012/12/24/sports/basketball/pick-your-all-time-new-york-city-nba-team.html	all-nyc-nba	2	All-Time NYC NBA
 http://www.nytimes.com/interactive/2013/01/29/us/where-50000-guns-in-chicago-came-from.html	chicago-guns	6	50,000 Chicago Guns
 http://www.nytimes.com/interactive/2013/02/20/us/hispanics-californias-next-majority.html	calif-hispanics	7	California’s Next Majority
 http://www.nytimes.com/interactive/2013/03/01/world/americas/border-graphic.html	border-map	8	Border Enforcement
