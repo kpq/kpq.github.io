@@ -1,6 +1,9 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
    "http://www.w3.org/TR/html4/loose.dtd">
 
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap" rel="stylesheet">
+
 <html lang="en">
 <head>
   <title>Kevin Quealy</title>
@@ -19,201 +22,123 @@
     ga('create', 'UA-41213867-1', 'kpq.github.io');
     ga('send', 'pageview');
 
+
+
   </script>
 
 
 <style type="text/css">
 
 #page {
-  width: 1080px;
-  margin: 20px auto;
-  font-family: Arial;
-}
-.email-hilight {
-  color: #ED1E79;
-  font-weight: 700;
-}
-.page-header {
-  font-family: "adelle-1","Helvetica","Arial",sans;
-  font-size: 78px;
-  margin: 0 0 10px 0;
+  max-width: 1050px;
+  margin:  100px auto;
+  overflow:  hidden;
+    font-family: 'Roboto', arial, sans-serif;
 }
 
-.wf-loading.page-header {
-  visibility: hidden;
-}
+@media only screen and (max-width: 600px) {
 
-.readin {
-  font-family: "museo-slab-1", helvetica,arial,sans;
-  font-weight: 300;
-  font-size: 19px;
-  line-height: 30px;
-}
-
-.wf-loading .readin {
-  visibility:hidden;
-}
-
-.readin a {
-  color: black;
-  font-weight: bold;
-  font-weight: 700;
-  text-decoration: none;
-}
-
-.readin a:hover {
-  color:white;
-  background-color:black;
-}
-
-a:hover {
-  text-decoration:uppercase;
-}
-
-.work-thumb-container {
-  width: 200px;
-  height: 171px;
-  margin: 7px;
-  background-color: #F4F4F4;
-  float: left;
-  display: inline;
-  overflow: hidden;
-  position:relative;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
-  border-radius: 5px;
-  box-shadow: 2px 2px 2px #ccc;
-  -webkit-transition: all .3s;
-  -moz-transition: all .3s;
-  -o-transition: all .3s;
-}
-
-.work-thumb-container:hover {
-  box-shadow: 3px 3px 4px #888;
-}
-
-.work-thumb-container.first {
-  margin-left:0px;
-}
-.work-thumb-container.last {
-  margin-right:0px;
-}
-
-.work-link {
-  color: black;
-  font-weight: bold;
-  position: absolute;
-  top:0;
-  left:0;
-  text-decoration: none;
-  padding: 3px 7px;
-}
-
-.work-label {
-  position: absolute;
-  top: 85%;
-  background-color: white;
-  background:rgba(255,255,255,.9);
-  width: 100%;
-  font-size: 12px;
-  padding: 4px 5px;
-  border-top: 1px solid #CCC;
-  border-bottom: 1px solid #CCC;
-  font-weight: bold;
-  color: black;
-  -webkit-transition: all .3s;
-  -moz-transition: all .3s;
-  -o-transition: all .3s;
-}
-
-.work-thumb-container:hover .work-label {
-  top: 80%;
-  background-color: white;
-  background: rgba(255,255,255,1);
-}
-
-.work-thumbnail-image {
-  -moz-border-radius:5px;
-  border-radius:5px;
-  width: 200px;
-  position: absolute;
-  left: 0px;
-  top: 0px;
-}
-
-/*clearfix*/
-.clearfix:after {
-  content: ".";
-  display: block;
-  height: 0;
-  clear: both;
-  visibility: hidden;
-}
-
-.clearfix {
-  zoom: 1;
-  display: block;     /* resets display for IE/Win */
-}
-
-.recent-work-hed {
-  font-family: "museo-slab-1",arial,sans;
-  margin-left: 7px;
-}
-
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
   #page {
-    width: 350px;
+    margin:  20px;
   }
-  .work-thumb-container {
-    width: 162px;
-    margin: 4px;
+
+}
+
+
+#page a {
+    text-decoration: none;
+    color: #000;
+}
+
+
+
+@media only screen and (min-width: 600px) {
+  .top {
+   display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-column-gap: 40px;
   }
-  .page-header {
-    font-size: 37px;
-  }
-  .readin {
-    font-size: 19px;
+}
+
+.top .photo {
+   grid-column: 1 / 1;
+  grid-row: 1;
+  width:  100%;
+}
+
+
+@media only screen and (min-width: 600px) {
+.work-section {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-column-gap: 40px;
+}
+}
+
+
+
+.g-bio {
+grid-column: 2 / 4;
+  grid-row: 1;
+}
+
+.work-section .thumbnail {
+  width:  100%;
+  /*height:  200px;*/
+  /*background-color:  #f0f0f0;*/
+  /*border:  1px solid #d0d0d0;*/
+  margin-bottom: 10px;
+}
+
+.work-section .work-example {
+  margin-bottom: 40px;
+}
+
+.pub-date {
+  font-weight: 100;
+  color:  #999;
+  font-size: 11px;
+}
+
+.work-hed {
+  margin-bottom: 4px;
+}
+
+.photo img {
+  width:  100%;
+}
+
+.thumbnail img {
+  width: 94%;
+    padding: 2.5%;
+    border: 1px solid #f0f0f0;
+    box-shadow: 2px 3px 5px #f0f0f0;
+}
+
+div.bio-graf {
+      font-size: 21px;
+    font-weight: 300;
     line-height: 1.4em;
-  }
-  .recent-work-hed {
-    text-align: center;
-    margin-left: 0;
-    font-size: 24px;
-  }
+    margin-bottom: 20px;
 }
 
-@media only screen and (device-width: 768px) and (orientation:portrait) {
-  #page {
-    width: 100%;
-  }
-  .work-thumb-container {
-    width: 170px;
-  }
-
-  .page-header {
-    font-size: 55px;
-  }
+.g-bio a {
+  font-weight: 500;
+  text-decoration: underline !important;
 }
 
-@media only screen and (device-width: 768px) and (orientation:landscape) {
-  #page {
-    width:100%;
-  }
-  .work-thumb-container {
-    width:139px;
-    margin:4px;
-  }
-  .page-header {
-    font-size:45px;
-  }
-  .readin {
-    font-size:17px;
-    line-height:1.4em;
-  }
-  .work-label {
-    font-size:10px;
-  }
+.contact {
+  margin-top:  20px;
+  font-weight: 300;
 }
+
+
+@media only screen and (max-width: 600px) {
+.g-meta-group {
+/*margin:  0 20px;*/
+}
+}
+
 
 </style>
 
@@ -222,40 +147,82 @@ a:hover {
 
 
 <div id="page">
-  <div class="top-section">
-    <h1 class="page-header">Kevin Quealy</h1>
-    <p class="readin">A graphics editor at The <a href ="http://www.nytimes.com">New York Times</a>, journalism adjunct <a href = "http://journalism.nyu.edu/graduate/courses-of-study/science-health-and-environmental-reporting">at NYU</a> and <a href="http://shancarter.github.io/ucb-dataviz-fall-2013/">UC-Berkeley</a>. On Twitter as <a href = "http://www.twitter.com/KevinQ">KevinQ</a> and on Tumblr at <a href = "http://www.chartsnthings.tumblr.com">chartsnthings</a>. Minnesotan, returned Peace Corps/South Africa volunteer, extremely chatty. <span class = "email-hilight">kpq5y3[at]gmail.com</span></p>
+  
+  <div class="top">
+    <div class="photo">
+      <img src="assets/images/batka-pic.png">
+    </div>
+
+    <div class="g-bio">
+      <h1>Kevin Quealy</h1>
+      <div class="bio-graf">I’ve been a reporter and editor at the New York Times since 2008. Before that, I was a Peace Corps volunteer in South Africa. Before that, I studied physics at Gustavus Adolphus College in St. Peter, Minnesota. I've given talks about our work at places like the <a href="https://www.youtube.com/watch?v=Kx6VNVLBgFI">2018 OpenVis conference</a> and the <a href="https://www.youtube.com/watch?v=hFpIE8xY_w8">Walker Art Center</a>, and I’ve taught classes about journalism, design and programming at New York University, U.C. Berkeley and <a href="https://www.thisismetis.com/courses">Metis</a>. Almost all the work on this page was as part of a team of people with skills in reporting, editing, design, statistics or web development.</div>  
+
+      <div class="contact">
+        <span>kpq5y3 at gmail.com</span>
+        <span><a href="https://twitter.com/KevinQ">@kevinQ</a></span>
+      </div>
+    </div>
+    
+
   </div>
 
-  <div class ="work-list clearfix">
-      <h4 class ="recent-work-hed">Recent projects</h4>
-  </div>
+  <h2 class="recent-work">Recent work</h2>
+  <div class="work-section main"></div>
+
 </div>
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script type="text/javascript">
-d3.tsv("assets/projects.tsv",function(projects) {
+d3.tsv("assets/projects-2.tsv",function(projects) {
 
   window.projects = projects;
 
-  var container = d3.select(".work-list");
+  var container = d3.select(".work-section");
 
   var thumbnail = container.selectAll(".work-thumb-container")
       .data(projects)
     .enter().append("div")
-      .classed("work-thumb-container",true)
+      .classed("work-example",true);
 
-  var link = thumbnail.append("a")
-      .classed("work-link",true)
-      .attr("href",function(d) { return d.url; });
+  var thumblink = thumbnail.append("a")
+    .attr("href", function(d) { return d.url; })
 
-  link.append("img")
-      .attr("src",function(d) { return "assets/images/" + d.imgUrl + ".jpg"; })
-      .classed("work-thumbnail-image", true);
+  var img_group = thumblink.append("div")
+    .attr("class", "thumbnail");
 
-  thumbnail.append("a")
-      .classed("work-label",true)
-      .text(function(d) { return d.shortHed; });
+  img_group.append("img")
+      .attr("src",function(d) { return "assets/images/" + d.imgUrl + ".png"; })
+      // .attr("src",function(d) { return d.img2 })
+      // .classed("work-thumbnail-image", true);
+
+  var meta_group = thumblink.append("div")
+    .attr("class", "g-meta-group");
+
+  meta_group.append("h4")
+    .attr("class", "work-hed")
+    .text(function(d) { return d.hed; });
+
+  meta_group.append("div")
+    .attr("class", "pub-date")
+    .text(function(d) { return d.date; });
+
+    // meta_group.append("p")
+    // .attr("class", "work-desc")
+    // .text(function(d) { return d.copy; });
+
+
+
+  // var link = thumbnail.append("a")
+  //     .classed("work-link",true)
+  //     .attr("href",function(d) { return d.url; });
+
+  
+
+  // thumbnail.append("a")
+  //     .classed("work-label",true)
+  //     .text(function(d) { return d.hed; });
+
+
 });
 
 </script>
