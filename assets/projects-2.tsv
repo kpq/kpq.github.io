@@ -1,19 +1,34 @@
-url	imgUrl	date	hed
-https://www.nytimes.com/interactive/2021/upshot/trump-biden-geography-quiz.html	pano-quiz	March 28, 2021	Do You Think You Can Tell How a Neighborhood Voted Just by Looking Around?
-https://www.nytimes.com/interactive/2021/03/17/upshot/partisan-segregation-maps.html	enos-dots	March 7, 2021	A Close-Up Picture of Partisan Segregation, Among 180 Million Voters
-https://www.nytimes.com/interactive/2021/01/19/upshot/trump-complete-insult-list.html	trump-insults	January 19, 2021	The Complete List of Trump’s Twitter Insults (2015-2021)
-https://www.nytimes.com/interactive/2020/11/03/us/elections/forecast-president.html	needles	November 3, 2020	All the various NYT Election Needles
-https://www.nytimes.com/interactive/2020/05/15/upshot/who-left-new-york-coronavirus.html	leaving-nyc	May 15, 2020	The Richest Neighborhoods Emptied Out Most as Coronavirus Hit New York City
-https://www.nytimes.com/interactive/2020/03/16/upshot/coronavirus-best-worst-death-toll-scenario.html	covid-comparison	March 16, 2020	Could Coronavirus Cause as Many Deaths as Cancer in the U.S.? Putting Estimates in Context
-https://www.nytimes.com/interactive/2019/12/23/upshot/recognizability-quiz.html	who-is-this	December 23, 2019	Quiz: Can You Identify These Politicians, Athletes and Celebrities? Most Americans Can’t.
-https://www.nytimes.com/interactive/2019/10/02/upshot/these-526-voters-represent-america.html	a1r	October 2, 2019	These 526 Voters Represent All of America. And They Spent a Weekend Together. 
-https://www.nytimes.com/interactive/2019/08/01/upshot/are-you-rich.html	rich-quiz	August 1, 2019	Are You Rich? This Income-Rank Quiz Might Change How You See Yourself
-https://www.nytimes.com/interactive/2019/04/08/upshot/democratic-electorate-twitter-real-life.html	hidden-tribes	April 8, 2019	The Democratic Electorate on Twitter Is Not the Actual Democratic Electorate
-https://www.nytimes.com/interactive/2018/upshot/election-2016-voting-precinct-maps.html	precinct-2016	July 25, 2018	Precinct Election Maps
-https://www.nytimes.com/interactive/2018/07/18/upshot/nike-vaporfly-shoe-strava.html	fancy-shoes	July 8, 2018	Nike Says Its $250 Running Shoes Will Make You Run Much Faster. What if That’s Actually True?
-https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html	fox-ladder	March 19, 2018	Extensive Data Shows Punishing Reach of Racism for Black Boys
-https://www.nytimes.com/interactive/2017/09/27/upshot/trump-statements-soon.html	trump-soon	September 27, 2017	‘Soon,’ ‘Very Soon,’ ‘Eventually’: A Detailed List of Things Trump Said Would Happen
-https://www.nytimes.com/interactive/2017/06/12/upshot/the-politics-of-americas-religious-leaders.html	hersh-religion	June 12, 2017	Your Rabbi? Probably a Democrat. Your Baptist Pastor? Probably a Republican. Your Priest? Who Knows.
-https://www.nytimes.com/interactive/2017/05/14/upshot/if-americans-can-find-north-korea-on-a-map-theyre-more-likely-to-prefer-diplomacy.html	north-korea	May 14, 2017	If Americans Can Find North Korea on a Map, They’re More Likely to Prefer Diplomacy
-https://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html	you-draw-it	May 28, 2015	You Draw It: How Family Income Predicts Children’s College Chances
-https://www.nytimes.com/2014/04/23/upshot/the-american-middle-class-is-no-longer-the-worlds-richest.html	middle-class	April 23, 2014	The American Middle Class Is No Longer the World’s Richest
+url	imgUrl	date	hed	sports
+https://www.nytimes.com/interactive/2021/upshot/trump-biden-geography-quiz.html	pano-quiz	March 28, 2021	Do You Think You Can Tell How a Neighborhood Voted Just by Looking Around?	news
+https://www.nytimes.com/interactive/2021/03/17/upshot/partisan-segregation-maps.html	enos-dots	March 7, 2021	A Close-Up Picture of Partisan Segregation, Among 180 Million Voters	
+https://www.nytimes.com/interactive/2021/01/19/upshot/trump-complete-insult-list.html	trump-insults	January 19, 2021	The Complete List of Trump’s Twitter Insults (2015-2021)	
+https://www.nytimes.com/interactive/2020/11/03/us/elections/forecast-president.html	needles	November 3, 2020	All the various NYT Election Needles	
+https://www.nytimes.com/interactive/2020/05/15/upshot/who-left-new-york-coronavirus.html	leaving-nyc	May 15, 2020	The Richest Neighborhoods Emptied Out Most as Coronavirus Hit New York City	
+https://www.nytimes.com/interactive/2020/03/16/upshot/coronavirus-best-worst-death-toll-scenario.html	covid-comparison	March 16, 2020	Could Coronavirus Cause as Many Deaths as Cancer in the U.S.? Putting Estimates in Context	
+https://www.nytimes.com/interactive/2019/12/23/upshot/recognizability-quiz.html	who-is-this	December 23, 2019	Quiz: Can You Identify These Politicians, Athletes and Celebrities? Most Americans Can’t.	
+https://www.nytimes.com/interactive/2019/10/02/upshot/these-526-voters-represent-america.html	a1r	October 2, 2019	These 526 Voters Represent All of America. And They Spent a Weekend Together.	
+https://www.nytimes.com/interactive/2019/08/01/upshot/are-you-rich.html	rich-quiz	August 1, 2019	Are You Rich? This Income-Rank Quiz Might Change How You See Yourself	
+https://www.nytimes.com/interactive/2019/04/08/upshot/democratic-electorate-twitter-real-life.html	hidden-tribes	April 8, 2019	The Democratic Electorate on Twitter Is Not the Actual Democratic Electorate	
+https://www.nytimes.com/interactive/2018/upshot/election-2016-voting-precinct-maps.html	precinct-2016	July 25, 2018	Precinct Election Maps	
+https://www.nytimes.com/interactive/2018/07/18/upshot/nike-vaporfly-shoe-strava.html	fancy-shoes	July 8, 2018	Nike Says Its $250 Running Shoes Will Make You Run Much Faster. What if That’s Actually True?	1
+https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html	fox-ladder	March 19, 2018	Extensive Data Shows Punishing Reach of Racism for Black Boys	
+https://www.nytimes.com/interactive/2017/09/27/upshot/trump-statements-soon.html	trump-soon	September 27, 2017	‘Soon,’ ‘Very Soon,’ ‘Eventually’: A Detailed List of Things Trump Said Would Happen	
+https://www.nytimes.com/interactive/2017/06/12/upshot/the-politics-of-americas-religious-leaders.html	hersh-religion	June 12, 2017	Your Rabbi? Probably a Democrat. Your Baptist Pastor? Probably a Republican. Your Priest? Who Knows.	
+https://www.nytimes.com/interactive/2017/05/14/upshot/if-americans-can-find-north-korea-on-a-map-theyre-more-likely-to-prefer-diplomacy.html	north-korea	May 14, 2017	If Americans Can Find North Korea on a Map, They’re More Likely to Prefer Diplomacy	
+https://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html	you-draw-it	May 28, 2015	You Draw It: How Family Income Predicts Children’s College Chances	
+https://www.nytimes.com/2014/04/23/upshot/the-american-middle-class-is-no-longer-the-worlds-richest.html	middle-class	April 23, 2014	The American Middle Class Is No Longer the World’s Richest	
+https://www.nytimes.com/interactive/2014/10/19/upshot/peyton-manning-breaks-touchdown-passing-record.html	peyton-manning	10/19/2014	Why Peyton Manning's Record Will Be Hard to Beat	1
+https://www.nytimes.com/interactive/2020/upshot/nfl-playoff-picture.html	nfl-simulator	Aug. 10, 2020	N.F.L. Playoff Simulator	1
+https://www.nytimes.com/interactive/2014/04/23/upshot/24-upshot-baseball.html?action=click&contentCollection=The%20Upshot&region=Footer&module=WhatsNext&version=WhatsNext&contentID=WhatsNext&moduleDetail=undefined&pgtype=Multimedia	facebook-baseball	2014/04/23	Up Close on Baseball’s Borders	1
+https://www.nytimes.com/interactive/2020/12/26/upshot/nfl-playoff-picture-trees.html	playoff-trees	2020/12/26	N.F.L. Playoff Trees	1
+http://archive.nytimes.com/www.nytimes.com/interactive/2012/08/05/sports/olympics/the-100-meter-dash-one-race-every-medalist-ever.html?	bolt-video	2012/08/05	One Race, Every Medalist Ever	1
+https://www.nytimes.com/interactive/2016/04/16/upshot/stephen-curry-golden-state-warriors-3-pointers.html	curry	2016/04/16	Stephen Curry’s 3-Point Record in Context: Off the Charts	1
+https://www.nytimes.com/interactive/2016/08/12/sports/olympics/katie-ledecky-winning-swims.html	ledecky	2016/08/12	Katie Ledecky and the Eternity of 11 Seconds	1
+https://www.nytimes.com/interactive/2019/12/13/upshot/nike-vaporfly-next-percent-shoe-estimates.html	fancy-shoes-2	2019/12/13	Nike’s Fastest Shoes May Give Runners an Even Bigger Advantage Than We Thought	1
+https://www.nytimes.com/interactive/2020/02/28/sports/womens-olympic-marathon-trials.html	marathon-trials	2020/02/28	Why Are American Women Running Faster Than Ever? We Asked Them — Hundreds of Them	1
+https://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html	chipotle	2015/02/17	At Chipotle, How Many Calories Do People Really Eat?	
+https://www.nytimes.com/2017/03/15/upshot/a-contrarian-cheat-sheet-improve-your-ncaa-bracket.html?rref=collection%2Fbyline%2Fkevin-quealy&action=click&contentCollection=undefined&region=stream&module=stream_unit&version=latest&contentPlacement=37&pgtype=collection	ncaa-bracket	2017/03/15	A Contrarian Cheat Sheet: Improve Your N.C.A.A. Bracket	1
+https://www.nytimes.com/2014/09/05/upshot/4th-down-when-to-go-for-it-and-why.html	4bot	2014/09/05	NYT 4th Down Bot	1
+https://www.nytimes.com/video/sports/100000003212076/after-the-new-york-city-marathon.html	marathon-video	2014/11/02	After the New York City Marathon	1
+https://www.nytimes.com/2014/05/02/upshot/how-not-to-be-misled-by-the-jobs-report.html	jobs-report	2014/05/02	How Not to Be Misled by the Jobs Report	
+https://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-were-born.html?action=click&contentCollection=The%20Upshot&region=Footer&module=WhatsNext&version=WhatsNext&contentID=WhatsNext&moduleDetail=undefined&pgtype=Multimedia	migration	2014/08/13	Where We Came From and Where We Went	

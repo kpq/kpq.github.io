@@ -169,6 +169,9 @@ div.bio-graf {
   <h2 class="recent-work">Recent work</h2>
   <div class="work-section main"></div>
 
+  <h2 class="recent-work">Sports things</h2>
+  <div class="work-section sports"></div>
+
 </div>
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
@@ -177,50 +180,41 @@ d3.tsv("assets/projects-2.tsv",function(projects) {
 
   window.projects = projects;
 
-  var container = d3.select(".work-section");
+  render_work_for_section(".work-section.main", projects.filter(function(d) { return d.sports != "1"; }));
+  render_work_for_section(".work-section.sports", projects.filter(function(d) { return d.sports == "1"; }));
 
-  var thumbnail = container.selectAll(".work-thumb-container")
-      .data(projects)
-    .enter().append("div")
-      .classed("work-example",true);
+  function render_work_for_section(sel, dt) {
+    var container = d3.select(sel);
 
-  var thumblink = thumbnail.append("a")
-    .attr("href", function(d) { return d.url; })
+    var thumbnail = container.selectAll(".work-thumb-container")
+        .data(dt)
+      .enter().append("div")
+        .classed("work-example",true);
 
-  var img_group = thumblink.append("div")
-    .attr("class", "thumbnail");
+    var thumblink = thumbnail.append("a")
+      .attr("href", function(d) { return d.url; })
 
-  img_group.append("img")
-      .attr("src",function(d) { return "assets/images/" + d.imgUrl + ".png"; })
-      // .attr("src",function(d) { return d.img2 })
-      // .classed("work-thumbnail-image", true);
+    var img_group = thumblink.append("div")
+      .attr("class", "thumbnail");
 
-  var meta_group = thumblink.append("div")
-    .attr("class", "g-meta-group");
+    img_group.append("img")
+        .attr("src",function(d) { return "assets/images/" + d.imgUrl + ".png"; })
+        // .attr("src",function(d) { return d.img2 })
+        // .classed("work-thumbnail-image", true);
 
-  meta_group.append("h4")
-    .attr("class", "work-hed")
-    .text(function(d) { return d.hed; });
+    var meta_group = thumblink.append("div")
+      .attr("class", "g-meta-group");
 
-  meta_group.append("div")
-    .attr("class", "pub-date")
-    .text(function(d) { return d.date; });
+    meta_group.append("h4")
+      .attr("class", "work-hed")
+      .text(function(d) { return d.hed; });
 
-    // meta_group.append("p")
-    // .attr("class", "work-desc")
-    // .text(function(d) { return d.copy; });
+    meta_group.append("div")
+      .attr("class", "pub-date")
+      .text(function(d) { return d.date; });
+  }
 
 
-
-  // var link = thumbnail.append("a")
-  //     .classed("work-link",true)
-  //     .attr("href",function(d) { return d.url; });
-
-  
-
-  // thumbnail.append("a")
-  //     .classed("work-label",true)
-  //     .text(function(d) { return d.hed; });
 
 
 });
